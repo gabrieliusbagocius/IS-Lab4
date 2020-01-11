@@ -1,0 +1,11 @@
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\bin\Debug\netcoreapp2.1\CSHttpClientSample.deps.json
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\bin\Debug\netcoreapp2.1\CSHttpClientSample.runtimeconfig.json
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\bin\Debug\netcoreapp2.1\CSHttpClientSample.runtimeconfig.dev.json
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\bin\Debug\netcoreapp2.1\CSHttpClientSample.dll
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\bin\Debug\netcoreapp2.1\CSHttpClientSample.pdb
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.csprojAssemblyReference.cache
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.csproj.CoreCompileInputs.cache
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.AssemblyInfoInputs.cache
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.AssemblyInfo.cs
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.dll
+C:\Users\navi\source\repos\Laboratory4\Laboratory4\obj\Debug\netcoreapp2.1\CSHttpClientSample.pdb
